@@ -1,0 +1,5 @@
+[book]
+authors = ["Mithi"]
+multilingual = false
+src = "src"
+title = "Deep Blueberry: Deep Learning"

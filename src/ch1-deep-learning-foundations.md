@@ -17,15 +17,20 @@
 
 ## Coding Exercises
 
-1. `2016-May-24` [Jason Brownlee: Predict whether patients have diabetes][c1]
-2. `2019-Mar-12` [Joseph Lee Wei En: Predict house prices with Keras][c2]
-3. [Soumith Chintala: Pytorch 60 Minute Blitz][c3]
+0. [Stanford Visual Recognition Class: Introduction to Numpy][c0]
+1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
+2. [Soumith Chintala: Pytorch 60 Minute Blitz][c2]
+3. [Your first deep-learning models][c3]
+    - Predict House Prices
+    - Predict whether a patient has diabetes
+    - Predict species of a flower
+    - Predict daily bike rental ridership
 
 [v1]: https://3blue1brown.com/neural-networks
 [v2]: https://brohrer.github.io/how_neural_networks_work.html
 [v3]: https://www.youtube.com/watch?v=5v1JnYv_yWs&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
-[c1]: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
-[c2]: https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4
-[c3]: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
-
+[c0]: http://cs231n.github.io/python-numpy-tutorial/
+[c1]: http://cs231n.github.io/neural-networks-case-study/
+[c2]: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+[c3]: https://github.com/mithi/deep-blueberry-code/tree/master/ch01-foundations

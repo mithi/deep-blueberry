@@ -2,8 +2,8 @@
 
 - Learn the mathematics behind recognizing images
 - Learn what a convolutional neural networks is
-- Familiarize yourself with the concept of transfer learning
-  feature preprocessing and data augmentation
+- Be familiarized with transfer learning,
+  feature preprocessing, and data augmentation
 
 
 ## Videos

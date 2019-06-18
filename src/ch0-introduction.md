@@ -7,7 +7,7 @@ stumbled upon the right place!
 This self-learning curriculum is an introduction to deep learning methods with applications.
 It's split into five modules, designed to be completed in five weekends. Each module takes
 about 8+ hours, you might be inspired to go above and beyond the material. Per module,
-you might want to take three hours to digest the theory and test your understanding pluse
+you might want to take three hours to digest the theory and test your understanding plus
 five hours to tinker with the provided code.
 
 ## Modules

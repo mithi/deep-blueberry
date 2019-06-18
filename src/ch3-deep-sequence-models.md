@@ -1,6 +1,6 @@
 # Deep Sequence Models
+- Learn what RNNs, LSTMs, and GRUs are and what problems they can solve
 
-- Learn what RNNs, LSTMs, and GRUs are
 
 ## Videos and Readings
 

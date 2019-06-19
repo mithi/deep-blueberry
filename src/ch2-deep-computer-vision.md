@@ -4,15 +4,16 @@
 - Be familiarized with transfer learning,
   feature preprocessing, and data augmentation
 
-> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
-> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
+> - [💰 Donate via Paypal](https://paypal.me/minimithi)
+> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
 
 ## Videos and Readings
 
 1. `16 min` `2017-May` [Carykh: Teaching my computer to give me friends][v1]
 2. `27 min` `2016-Aug` [Brandon Rohrer: How Convolutional Neural Networks work][v2]
-3. `2018-June` [Irhum Shafkat: Intuitively Understanding Convolutions for Deep Learning][r1]
-4. `40 min` Dr. Mike Pound: Computerphile CNN series
+3. `2018-Jun` [Irhum Shafkat: Intuitively Understanding Convolutions for Deep Learning][r1]
+4. `40 min` Dr. Mike Pound: CNN series (Computerphile)
     - `15 min` `2016-May` [Neural Network that Changes Everything][v3]
     - `16 min` `2017-Jun` [Inside a Neural Network][v4]
     -  `9 min` `2018-Jun` [Deep Learning][v5]
@@ -20,7 +21,7 @@
 
 ## Coding Exercises
 
-1. [Fashion MNIST dataset][c1]
+1. [The Fashion MNIST dataset][c1]
 2. `2017-Jan` [Alex Staravoitau: Traffic Sign Classification][c2]
 3. [Sasank Chilamkurthy: Transfer Learning Tutorial][c3]
     - Classify ants and bees with only 120 images

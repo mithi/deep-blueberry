@@ -1,9 +1,10 @@
 # Deep Learning Foundations
-- Learn the principles behind deep-learning, and artificial neural networks.
-- Implement simple feedforward neural networks with Keras and Pytorch
+- Learn the principles behind deep-learning and artificial neural networks
+- Implement simple feedforward neural networks with Tensorflow Keras and Pytorch
 
-> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
-> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
+> - [💰 Donate via Paypal](https://paypal.me/minimithi)
+> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
 
 ## Videos
 
@@ -14,18 +15,25 @@
     - `11 min` Backpropagation calculus
 2. `24 min` `2017-Mar` [Brandon Rohrer: How Deep Neural Networks Work][v2]
 3. `45 min` `2019-Jan` [Alexander Amini: Introduction to Deep Learning][v3]
+3. `2015-Jun` [Michael Nielsen: A visual proof that NNs can compute any function][r1]
 
 ## Coding Exercises
 
 0. [Stanford Visual Recognition Class: Introduction to Numpy][c0]
 1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
 2. [Soumith Chintala: PyTorch 60 Minute Blitz][c2]
-3. [Your first deep-learning models][c3]
-    - Predict house prices | Predict whether a patient has diabetes
-    - Predict which type of flower | Predict daily bike rental ridership
-4. [Tensorflow Keras][c4]
+3. [Tensorflow Keras][c4]
     - Basic classification | Text classification | and Regression
     - Overfitting and underfitting | Save and restore models
+4. [Your first deep-learning models][c3]
+    - Predict house prices | Predict whether a patient has diabetes
+    - Predict which type of flower | Predict daily bike rental ridership
+5. [Pytorch Tutorials][c11] | [Keras Tutorials][c12]
+
+[c11]: https://github.com/yunjey/pytorch-tutorial/
+[c12]: https://github.com/fchollet/deep-learning-with-python-notebooks
+
+[r1]: http://neuralnetworksanddeeplearning.com/chap4.html
 
 [v1]: https://3blue1brown.com/neural-networks
 [v2]: https://brohrer.github.io/how_neural_networks_work.html

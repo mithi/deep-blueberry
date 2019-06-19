@@ -1,13 +1,14 @@
 # Deep Sequence Models
 - Learn what RNNs, LSTMs, and GRUs are and what they could solve
 
-> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
-> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
+> - [💰 Donate via Paypal](http://paypal.me/minimithi)
+> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
 
 ## Videos and Readings
 
-1. `40 min` `2015-Sep` [Visualizing and Understanding Recurrent Networks][v1]
-    - `2015-May` [Andrej Karpathy: The Unreasonable Effectiveness of RNN][r1]
+1. `40 min` `2015-Sep` [Andrej Karpathy: Visualizing and Understanding Recurrent Networks][v1]
+    - `2015-May` [The Unreasonable Effectiveness of RNN][r1]
 2. `2015-Aug` [Christopher Olah: Understanding LSTM Networks][r2]
 3. `24 min` `2018-Sep` Michael Nguyen: An illustrated Guide to RNN and LSTM
     - `10 min` [Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition][v3]

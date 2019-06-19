@@ -1,15 +1,16 @@
 # Deep Generative Models
 - Learn what Generative Adversarial Networks and Variational Autoencoders are
 
-> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
-> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
+> - [💰 Donate via Paypal](https://paypal.me/minimithi)
+> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
 
 ## Videos and Readings
 1. `2019-Jan` [Alexander Amini: Generative Models Slides][r9]
 
 ##### VARIATIONAL AUTOENCODERS
 1. `2018-Feb` [Irhum Shafkat: Intuitively Understanding Variational Autoencoders][r1]
-2. `2018-Mar` [Jeremy Jordan: Variational autoencoders][r2]
+2. `2018-Mar` [Jeremy Jordan: Variational Autoencoders][r2]
 3. `2017-Dec` [Keita Kurita: An Intuitive Explanation of Variational Autoencoders][r3]
 4. `2017-May` [Will Kurt: Kullback-Leibler Divergence Explained][r4]
 5. `2016-Jul` [Goker Erdogan: Reparameterization Trick][r5]
@@ -21,9 +22,10 @@
 4. `2016-Jun` [Kevin Frans: Generative Adversarial Networks Explained][r8]
 
 ## Coding Exercises
-1. `?? min` `2018-Jul` [John Fisher: Autoencoder tutorial in Keras][v0]
-2. [MIT Bootcamp: Intro to Deeplearning Debiasing Faces][r10]
+1. `21 min` `2018-Jul` [John Fisher: Autoencoder Tutorial in Keras][v0]
+2. [MIT Bootcamp: Intro to Deep Learning Debiasing Faces][c1]
 3. `17 min` `2018-Jan` [Dominic Mon: Make a Face Adversarial Network in 15 minutes][v2]
+4. [Erik Linder-noren: PyTorch-GAN][c2]
 
 [v0]: http://youtu.be/uCaPP4blYAg
 [v1]: https://youtu.be/Sw9r8CL98n0
@@ -39,4 +41,6 @@
 [r7]: https://medium.com/deep-math-machine-learning-ai/ch-14-general-adversarial-networks-gans-with-math-1318faf46b43
 [r8]: http://kvfrans.com/generative-adversial-networks-explained/
 [r9]: http://introtodeeplearning.com/materials/2019_6S191_L4.pdf
-[r10]: https://github.com/aamini/introtodeeplearning_labs/blob/master/lab2/Part2_debiasing_solution.ipynb
+
+[c1]: https://github.com/aamini/introtodeeplearning_labs/blob/master/lab2/Part2_debiasing_solution.ipynb
+[c2]: https://github.com/eriklindernoren/PyTorch-GAN

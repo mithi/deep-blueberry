@@ -1,8 +1,8 @@
 # Deep Reinforcement Learning
-- Understand the core ideas and terminologies used in reinforcement learning field
+- Understand the core ideas and terminologies used in the field
 - Understand a few reinforcement learning algorithms
 - Apply these algorithms to video-game like environments such as
-  OpenAIGym and Mujoco
+  OpenAIGym and MuJoCo
 
 > - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
 > - [💰 Donate via Paypal](https://paypal.me/minimithi)

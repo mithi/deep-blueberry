@@ -1,7 +1,7 @@
 # Deep Computer Vision
 - Learn what a convolutional neural network is and
  the mathematics behind recognizing images
-- Be familiarized with transfer learning,
+- Be familiarized with widely used techniques like transfer learning,
   feature preprocessing, and data augmentation
 
 > - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
@@ -32,9 +32,7 @@
 [v4]: https://www.youtube.com/watch?v=BFdMrDOx_CM
 [v5]: https://www.youtube.com/watch?v=TJlAxW-2nmI
 [v6]: https://www.youtube.com/watch?v=2-Ol7ZB0MmU
-
 [r1]: https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
-
 [c1]: https://www.kaggle.com/zalando-research/fashionmnist/home
 [c2]: https://navoshta.com/traffic-signs-classification/
 [c3]: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html

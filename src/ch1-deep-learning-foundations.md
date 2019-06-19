@@ -1,6 +1,6 @@
 # Deep Learning Foundations
 - Learn the principles behind deep-learning and artificial neural networks
-- Implement simple feedforward neural networks with Tensorflow Keras and Pytorch
+- Implement simple feedforward neural networks with Tensorflow Keras and PyTorch
 
 > - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
 > - [💰 Donate via Paypal](https://paypal.me/minimithi)
@@ -28,10 +28,7 @@
 4. [Your first deep-learning models][c3]
     - Predict house prices | Predict whether a patient has diabetes
     - Predict which type of flower | Predict daily bike rental ridership
-5. [Pytorch Tutorials][c11] | [Keras Tutorials][c12]
-
-[c11]: https://github.com/yunjey/pytorch-tutorial/
-[c12]: https://github.com/fchollet/deep-learning-with-python-notebooks
+5. [PyTorch Tutorials][c11] | [Keras Tutorials][c12]
 
 [r1]: http://neuralnetworksanddeeplearning.com/chap4.html
 
@@ -44,3 +41,5 @@
 [c2]: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 [c3]: https://github.com/mithi/deep-blueberry-code/tree/master/ch01-foundations
 [c4]: https://www.tensorflow.org/tutorials/keras
+[c11]: https://github.com/yunjey/pytorch-tutorial/
+[c12]: https://github.com/fchollet/deep-learning-with-python-notebooks

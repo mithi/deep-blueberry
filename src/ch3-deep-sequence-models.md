@@ -1,5 +1,5 @@
 # Deep Sequence Models
-- Learn what RNNs, LSTMs, and GRUs are and what they could solve
+- Learn how RNNs, LSTMs, and GRUs work
 
 > - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
 > - [💰 Donate via Paypal](http://paypal.me/minimithi)

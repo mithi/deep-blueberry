@@ -1,5 +1,6 @@
 # Deep Generative Models
-- Learn what Generative Adversarial Networks and Variational Autoencoders are
+- Learn how Generative Adversarial Networks and Variational Autoencoders can produce
+never-before-seen hyperrealistic data
 
 > - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
 > - [💰 Donate via Paypal](https://paypal.me/minimithi)

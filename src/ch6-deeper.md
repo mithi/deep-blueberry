@@ -17,8 +17,6 @@ your deep-learning journey by looking at the links listed below.
 6. [OpenAI's Spinning Up in Deep RL][r2]
 7. [💰💰 Brandon Rohrer: Neural Network Visualization][v1]
 
-
-
 [r1]: https://hackernoon.com/malicious-attacks-to-neural-networks-8b966793dfe1
 [r2]: https://spinningup.openai.com/en/latest/
 [r3]: https://distill.pub/

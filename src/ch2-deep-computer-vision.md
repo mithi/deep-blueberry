@@ -1,10 +1,11 @@
 # Deep Computer Vision
-
 - Learn what a convolutional neural network is and
  the mathematics behind recognizing images
 - Be familiarized with transfer learning,
   feature preprocessing, and data augmentation
 
+> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
+> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
 
 ## Videos and Readings
 
@@ -25,7 +26,7 @@
     - Classify ants and bees with only 120 images
 
 [v1]: https://www.youtube.com/watch?v=p_7GWRup-nQ
-[v3]: https://www.youtube.com/watch?v=FmpDIaiMIeA
+[v2]: https://www.youtube.com/watch?v=FmpDIaiMIeA
 [v3]: https://www.youtube.com/watch?v=py5byOOHZM8
 [v4]: https://www.youtube.com/watch?v=BFdMrDOx_CM
 [v5]: https://www.youtube.com/watch?v=TJlAxW-2nmI

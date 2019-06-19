@@ -1,6 +1,8 @@
 # Deep Sequence Models
-- Learn what RNNs, LSTMs, and GRUs are and in what problems they could
-be applied to
+- Learn what RNNs, LSTMs, and GRUs are and what they could solve
+
+> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
+> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
 
 ## Videos and Readings
 

@@ -2,6 +2,9 @@
 - Learn the principles behind deep-learning, and artificial neural networks.
 - Implement simple feedforward neural networks with Keras and Pytorch
 
+> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
+> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+
 ## Videos
 
 1. `65 min` `2017-Oct` [Blue1Brown3: Deep-learning four-part series][v1]
@@ -18,10 +21,8 @@
 1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
 2. [Soumith Chintala: PyTorch 60 Minute Blitz][c2]
 3. [Your first deep-learning models][c3]
-    - Predict house prices
-    - Predict whether a patient has diabetes
-    - Predict which type of flower
-    - Predict daily bike rental ridership
+    - Predict house prices | Predict whether a patient has diabetes
+    - Predict which type of flower | Predict daily bike rental ridership
 4. [Tensorflow Keras][c4]
     - Basic classification | Text classification | and Regression
     - Overfitting and underfitting | Save and restore models

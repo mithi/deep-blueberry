@@ -3,6 +3,9 @@
 - Apply these algorithms to video-game like environments such as
   OpenAIGym and Mujoco
 
+> - [☕️ Buy me a cup of coffee ](https://ko-fi.com/minimithi) | [💵 Donate via Paypal ](http://paypal.me/minimithi)
+> - ❤️ BTC! `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+
 ## Readings and Coding Exercises
 1. `2017-Nov` Josh Greaves: Understanding Reinforcement Learning
     - [Everything You Need to Know to Get Started in RL][r1]
@@ -13,7 +16,7 @@
 3. `2018-Mar` [Thomas Simonini: Free Deep Reinforcement Learning Course][r5]
 4. `2018-May` [Lilian: Weng: Implementing Deep RL Models with Tensorflow + OpenAI Gym][r6]
 
-# Advanced Coding Exercises and Theory
+## Advanced Coding Exercises and Theory
 1. `2018-Nov` [Josh Achiam: OpenAI Spinning Up Course (Core Deep RL Algorithms)][c1]
 2. [Dulat Yerzat: RL Adventure on DQN][c2]
 3. [Dulat Yerzat: RL Adventure on Policy Gradients][c3]

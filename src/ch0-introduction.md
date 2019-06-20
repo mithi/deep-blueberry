@@ -8,9 +8,10 @@ If you've always wanted to learn about deep-learning but don't know where to sta
 - [Deep Reinforcement Learning](./ch5-deep-reinforcement-learning.md)
 - [Deeper: Where to go from here](./ch6-deeper.md)
 
-> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
-> - [💰 Donate via Paypal](http://paypal.me/minimithi)
-> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
+- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
+- [💰 Donating via Paypal](https://paypal.me/minimithi)
+- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
 
 This self-learning curriculum is an introduction to deep learning methods with applications.
 It's split into five modules and designed to be completed in five weekends. Each module takes

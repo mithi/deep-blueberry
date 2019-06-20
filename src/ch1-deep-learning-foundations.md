@@ -2,11 +2,12 @@
 - Learn the principles behind deep-learning and artificial neural networks
 - Implement simple feedforward neural networks with Tensorflow Keras and PyTorch
 
-> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
-> - [💰 Donate via Paypal](https://paypal.me/minimithi)
-> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
+- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
+- [💰 Donating via Paypal](https://paypal.me/minimithi)
+- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
 
-## Videos
+## Videos + Readings
 
 1. `65 min` `2017-Oct` [Blue1Brown3: Deep-learning four-part series][v1]
     - `19 min` But what *is* a Neural Network?
@@ -19,16 +20,15 @@
 
 ## Coding Exercises
 
-0. [Stanford Visual Recognition Class: Introduction to Numpy][c0]
 1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
 2. [Soumith Chintala: PyTorch 60 Minute Blitz][c2]
 3. [Tensorflow Keras][c4]
-    - Basic classification | Text classification | and Regression
-    - Overfitting and underfitting | Save and restore models
+    - Basic classification | Text classification | Regression
+    - Overfitting / underfitting | Save / restore models
 4. [Your first deep-learning models][c3]
     - Predict house prices | Predict whether a patient has diabetes
     - Predict which type of flower | Predict daily bike rental ridership
-5. [PyTorch Tutorials][c11] | [Keras Tutorials][c12]
+5. [PyTorch Tutorials][c11] | [Keras Tutorials][c12] | [Intro to Numpy][c0]
 
 [r1]: http://neuralnetworksanddeeplearning.com/chap4.html
 

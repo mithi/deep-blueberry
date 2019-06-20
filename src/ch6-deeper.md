@@ -3,9 +3,10 @@ If you've finished all five modules, congratulations! You are now familiar
 with some of the hottest topics in deep-learning today. You might want to continue
 your deep-learning journey by looking at the links listed below.
 
-> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
-> - [💰 Donate via Paypal](http://paypal.me/minimithi)
-> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
+- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
+- [💰 Donating via Paypal](https://paypal.me/minimithi)
+- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
 
 ### Recommended Places
 

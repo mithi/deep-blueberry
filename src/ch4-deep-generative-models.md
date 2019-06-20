@@ -1,12 +1,13 @@
 # Deep Generative Models
-- Learn how Generative Adversarial Networks and Variational Autoencoders can produce
-never-before-seen hyperrealistic data
+- Learn how Generative Adversarial Networks and Variational Autoencoders can produce realistic,
+never-before-seen data
 
-> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
-> - [💰 Donate via Paypal](https://paypal.me/minimithi)
-> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
+- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
+- [💰 Donating via Paypal](https://paypal.me/minimithi)
+- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
 
-## Videos and Readings
+## Videos + Readings
 1. `2019-Jan` [Alexander Amini: Generative Models Slides][r9]
 
 ##### VARIATIONAL AUTOENCODERS

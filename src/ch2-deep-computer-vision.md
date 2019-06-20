@@ -1,14 +1,15 @@
 # Deep Computer Vision
 - Learn what a convolutional neural network is and
  the mathematics behind recognizing images
-- Be familiarized with widely used techniques like transfer learning,
+- Be familiarized with widely-used techniques like transfer learning,
   feature preprocessing, and data augmentation
 
-> - [☕️ Buy me a cup of coffee](https://ko-fi.com/minimithi)
-> - [💰 Donate via Paypal](https://paypal.me/minimithi)
-> - 💙 BTC `33Mudy961bUk9zz35p68g9fE3uuHLRduRp`
+##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
+- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
+- [💰 Donating via Paypal](https://paypal.me/minimithi)
+- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
 
-## Videos and Readings
+## Videos + Readings
 
 1. `16 min` `2017-May` [Carykh: Teaching my computer to give me friends][v1]
 2. `27 min` `2016-Aug` [Brandon Rohrer: How Convolutional Neural Networks work][v2]

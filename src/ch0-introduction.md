@@ -11,7 +11,10 @@ If you've always wanted to learn about deep-learning but don't know where to sta
 ##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
 - [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
 - [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
+- 💙 Sending BTC
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 This self-learning curriculum is an introduction to deep learning methods with applications.
 It's split into five modules and designed to be completed in five weekends. Each module takes

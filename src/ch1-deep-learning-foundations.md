@@ -5,10 +5,12 @@
 ##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
 - [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
 - [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
+- 💙 Sending BTC
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 ## Videos + Readings
-
 1. `65 min` `2017-Oct` [Blue1Brown3: Deep-learning four-part series][v1]
     - `19 min` But what *is* a Neural Network?
     - `21 min` Gradient descent, how neural networks learn
@@ -16,10 +18,9 @@
     - `11 min` Backpropagation calculus
 2. `24 min` `2017-Mar` [Brandon Rohrer: How Deep Neural Networks Work][v2]
 3. `45 min` `2019-Jan` [Alexander Amini: Introduction to Deep Learning][v3]
-3. `2015-Jun` [Michael Nielsen: A visual proof that NNs can compute any function][r1]
+4. `2015-Jun` [Michael Nielsen: A visual proof that NNs can compute any function][r1]
 
 ## Coding Exercises
-
 1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
 2. [Soumith Chintala: PyTorch 60 Minute Blitz][c2]
 3. [Tensorflow Keras][c4]
@@ -31,7 +32,6 @@
 5. [PyTorch Tutorials][c11] | [Keras Tutorials][c12] | [Intro to Numpy][c0]
 
 [r1]: http://neuralnetworksanddeeplearning.com/chap4.html
-
 [v1]: https://3blue1brown.com/neural-networks
 [v2]: https://brohrer.github.io/how_neural_networks_work.html
 [v3]: https://www.youtube.com/watch?v=5v1JnYv_yWs

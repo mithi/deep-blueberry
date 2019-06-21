@@ -1,10 +1,13 @@
 # Deep Sequence Models
-- Learn how RNNs, LSTMs, and GRUs work
+- Learn how RNNs (LSTMs, GRUs) work and how they can be used for processing sequences
 
 ##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
 - [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
 - [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
+- 💙 Sending BTC
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 ## Videos + Readings
 
@@ -13,8 +16,8 @@
 2. `2015-Aug` [Christopher Olah: Understanding LSTM Networks][r2]
 3. `24 min` `2018-Sep` Michael Nguyen: An illustrated Guide to RNN and LSTM
     - `10 min` [Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition][v3]
-    - `12 min` [Illustrated Guide to LSTM's and GRU's: A step by step explanation][v4]
-    - [RNN Article][r3] | [LSTM/GRU Article][r4]
+    - `12 min` [Illustrated Guide to LSTM's and GRU's: A step-by-step explanation][v4]
+    - [RNN Article][r3] | [LSTM + GRU Article][r4]
 4. `27 min` `2017-Jun` [Brandon Rohrer: RNN and LSTM][v2]
 5. `2019-Jan` [Ava Soleimany: Deep Sequence Modeling][r5]
 

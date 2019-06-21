@@ -1,13 +1,16 @@
 # Deep Reinforcement Learning
 - Understand the core ideas and terminologies used in the field
 - Understand a few reinforcement learning algorithms
-- Apply these algorithms to video-game like environments such as
+- Apply these algorithms to videogame-like environments such as
   OpenAIGym and MuJoCo
 
 ##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
 - [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
 - [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
+- 💙 Sending BTC
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 ## Readings + Coding Exercises
 1. `2017-Nov` Josh Greaves: Understanding Reinforcement Learning
@@ -16,8 +19,8 @@
 2.  Jaromír Janisch: Let's Make DQN and A3C series
     - `2016-Sep` [Let's Make DQN Theory][r3]
     - `2017-Feb` [Let's Make A3C Theory][r4]
-3. `2018-Mar` [Thomas Simonini: Free Deep Reinforcement Learning Course][r5]
-4. `2018-May` [Lilian Weng: Implementing Deep RL Models with Tensorflow + OpenAI Gym][r6]
+3. `2018-Mar` [Thomas Simonini: Deep Reinforcement Learning (Free Course)][r5]
+4. `2018-May` [Lilian Weng: Implementing Deep RL Models][r6]
 
 ## Advanced Coding Exercises
 1. Dulat Yerzat: RL Adventure on [DQN][c2] and [Policy Gradients][c3]

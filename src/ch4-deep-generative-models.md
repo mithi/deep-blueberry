@@ -5,7 +5,10 @@ never-before-seen data
 ##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
 - [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
 - [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC ```33Mudy961bUk9zz35p68g9fE3uuHLRduRp```
+- 💙 Sending BTC
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 ## Videos + Readings
 1. `2019-Jan` [Alexander Amini: Generative Models Slides][r9]
@@ -15,13 +18,12 @@ never-before-seen data
 2. `2018-Mar` [Jeremy Jordan: Variational Autoencoders][r2]
 3. `2017-Dec` [Keita Kurita: An Intuitive Explanation of Variational Autoencoders][r3]
 4. `2017-May` [Will Kurt: Kullback-Leibler Divergence Explained][r4]
-5. `2016-Jul` [Goker Erdogan: Reparameterization Trick][r5]
 
 ##### GENERATIVE ADVERSARIAL NETWORKS
-1. `22 min` `2017-Oct` [Rob Miles: Generative Adversarial Networks (GANs)][v1]
-2. `2019-Jan` [Minsuk Kahng etal: Play with Generative Adversarial Network in Your Browser][r6]
-3. `2019-Jan` [Madhu Sanjeevi: Generative Adversarial Networks with Math][r7]
-4. `2016-Jun` [Kevin Frans: Generative Adversarial Networks Explained][r8]
+1. `2016-Jun` [Kevin Frans: Generative Adversarial Networks Explained][r8]
+2. `22 min` `2017-Oct` [Rob Miles: Generative Adversarial Networks (GANs)][v1]
+3. `2019-Jan` [Minsuk Kahng etal: Play with Generative Adversarial Network in Your Browser][r6]
+4. `2019-Jan` [Madhu Sanjeevi: Generative Adversarial Networks with Math][r7]
 
 ## Coding Exercises
 1. `21 min` `2018-Jul` [John Fisher: Autoencoder Tutorial in Keras][v0]
@@ -37,7 +39,6 @@ never-before-seen data
 [r2]: https://www.jeremyjordan.me/variational-autoencoders
 [r3]: http://mlexplained.com/2017/12/28/an-intuitive-explanation-of-variational-autoencoders-vaes-part-1
 [r4]: https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
-[r5]: https://gokererdogan.github.io/2016/07/01/reparameterization-trick/
 
 [r6]: https://poloclub.github.io/ganlab/
 [r7]: https://medium.com/deep-math-machine-learning-ai/ch-14-general-adversarial-networks-gans-with-math-1318faf46b43

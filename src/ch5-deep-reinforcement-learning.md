@@ -20,7 +20,6 @@
     - `2016-Sep` [Let's Make DQN Theory][r3]
     - `2017-Feb` [Let's Make A3C Theory][r4]
 3. `2018-Mar` [Thomas Simonini: Deep Reinforcement Learning (Free Course)][r5]
-4. `2018-May` [Lilian Weng: Implementing Deep RL Models][r6]
 
 ## Advanced Coding Exercises
 1. Dulat Yerzat: RL Adventure on [DQN][c2] and [Policy Gradients][c3]
@@ -31,7 +30,6 @@
 [r3]: https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/
 [r4]: https://jaromiru.com/2017/02/16/lets-make-an-a3c-theory/
 [r5]: https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
-[r6]: https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html
 
 [c1]: https://spinningup.openai.com/en/latest/user/algorithms.html
 [c2]: https://github.com/higgsfield/RL-Adventure

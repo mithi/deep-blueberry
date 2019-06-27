@@ -26,10 +26,7 @@
 3. [Tensorflow Keras][c4]
     - Basic classification | Text classification | Regression
     - Overfitting / underfitting | Save / restore models
-4. [Your first deep-learning models][c3]
-    - Predict house prices | Predict whether a patient has diabetes
-    - Predict which type of flower | Predict daily bike rental ridership
-5. [PyTorch Tutorials][c11] | [Keras Tutorials][c12] | [Intro to Numpy][c0]
+4. [PyTorch Tutorials][c11] | [Keras Tutorials][c12] | [Intro to Numpy][c0]
 
 [r1]: http://neuralnetworksanddeeplearning.com/chap4.html
 [v1]: https://3blue1brown.com/neural-networks
@@ -39,7 +36,6 @@
 [c0]: http://cs231n.github.io/python-numpy-tutorial/
 [c1]: http://cs231n.github.io/neural-networks-case-study/
 [c2]: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
-[c3]: https://github.com/mithi/deep-blueberry-code/tree/master/ch01-foundations
 [c4]: https://www.tensorflow.org/tutorials/keras
 [c11]: https://github.com/yunjey/pytorch-tutorial/
 [c12]: https://github.com/fchollet/deep-learning-with-python-notebooks

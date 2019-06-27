@@ -16,13 +16,9 @@
 1. `16 min` `2017-May` [Carykh: Teaching my computer to give me friends][v1]
 2. `27 min` `2016-Aug` [Brandon Rohrer: How Convolutional Neural Networks work][v2]
 3. `2018-Jun` [Irhum Shafkat: Intuitively Understanding Convolutions for Deep Learning][r1]
-4. `40 min` Dr. Mike Pound: CNN series (Computerphile)
-    - `15 min` `2016-May` [Neural Network that Changes Everything][v3]
-    - `16 min` `2017-Jun` [Inside a Neural Network][v4]
-    -  `9 min` `2018-Jun` [Deep Learning][v5]
-5. `33 min` `2017-Mar` [Luis Serrano: A friendly introduction to CNNs and Image Recognition][v6]
-6. [Andrej Karpathy: Visualizing what CovNets learn][r2]
-7. [Interactive Visualization of CNN][r3]
+4. `33 min` `2017-Mar` [Luis Serrano: A friendly introduction to CNNs and Image Recognition][v6]
+5. [Andrej Karpathy: Visualizing what CovNets learn][r2]
+6. [Interactive Visualization of CNN][r3]
 
 ## Coding Exercises
 1. [The Fashion MNIST dataset][c1]
@@ -33,9 +29,6 @@
 
 [v1]: https://www.youtube.com/watch?v=p_7GWRup-nQ
 [v2]: https://www.youtube.com/watch?v=FmpDIaiMIeA
-[v3]: https://www.youtube.com/watch?v=py5byOOHZM8
-[v4]: https://www.youtube.com/watch?v=BFdMrDOx_CM
-[v5]: https://www.youtube.com/watch?v=TJlAxW-2nmI
 [v6]: https://www.youtube.com/watch?v=2-Ol7ZB0MmU
 
 [r3]: http://scs.ryerson.ca/~aharley/vis/conv/flat.html

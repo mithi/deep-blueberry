@@ -1,4 +1,6 @@
-# [🐳][x2] Deep Computer Vision [☕️][x0][🧧][x1]
+# Deep Computer Vision
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 - Learn what a convolutional neural network is and
  the mathematics behind recognizing images
 - Be familiarized with widely-used techniques like transfer learning,

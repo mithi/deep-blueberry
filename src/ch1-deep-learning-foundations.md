@@ -1,4 +1,6 @@
-# [🐳][x2] Deep Learning Foundations [☕️][x0][🧧][x1]
+# Deep Learning Foundations
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 - Learn the principles behind deep learning and artificial neural networks
 - Implement simple feedforward neural networks with Tensorflow Keras and PyTorch
 

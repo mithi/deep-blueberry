@@ -1,4 +1,6 @@
-# [🐳][x2] DEEP BLUEBERRY BOOK [☕️][x0][🧧][x1]
+# DEEP BLUEBERRY BOOK
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 This is a tiny and very focused collection of links about deep learning.
 If you've always wanted to learn deep learning stuff but don't know
 where to start, you might have stumbled upon the right place!
@@ -8,7 +10,7 @@ where to start, you might have stumbled upon the right place!
 - [Deep Sequence Models](./ch3-deep-sequence-models.md)
 - [Deep Generative Models](./ch4-deep-generative-models.md)
 - [Deep Reinforcement Learning](./ch5-deep-reinforcement-learning.md)
-- [Deeper: Where to go from here](./ch6-deeper.md)
+- [Deeper: What's next?](./ch6-deeper.md)
 
 
 This self-learning plan is split into five modules and designed to be completed in five weekends.

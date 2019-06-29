@@ -1,4 +1,6 @@
-# [🐳][x2] Deeper: Where to go from here [☕️][x0][🧧][x1]
+# Deeper: What's next?
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 If you've finished all five modules, congratulations! 🎉🎉 You are now familiar
 with some of the hottest topics in deep learning today. You might want to continue
 your deep learning journey with the links listed below. 🚀 are must-clicks!

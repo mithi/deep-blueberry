@@ -1,4 +1,6 @@
-# [🐳][x2] Deep Generative Models [☕️][x0][🧧][x1]
+# Deep Generative Models
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 - Learn how Generative Adversarial Networks and Variational Autoencoders can produce realistic,
 never-before-seen data
 

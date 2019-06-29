@@ -1,4 +1,6 @@
-# [🐳][x2] Deep Reinforcement Learning [☕️][x0][🧧][x1]
+# Deep Reinforcement Learning
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 - Understand the core ideas and terminologies used in the field
 - Understand a few reinforcement learning algorithms
 - Apply these algorithms to videogame-like environments such as

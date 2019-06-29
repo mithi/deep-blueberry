@@ -1,4 +1,6 @@
-# [🐳][x2] Deep Sequence Models [☕️][x0][🧧][x1]
+# Deep Sequence Models
+# [🐳][x2] [☕️][x0] [🧧][x1]
+
 - Learn how RNNs (LSTMs, GRUs) work and why they are used to process sequences
 
 ## Videos + Readings

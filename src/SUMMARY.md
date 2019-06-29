@@ -8,4 +8,4 @@
 - [Deep Sequence Models](./ch3-deep-sequence-models.md)
 - [Deep Generative Models](./ch4-deep-generative-models.md)
 - [Deep Reinforcement Learning](./ch5-deep-reinforcement-learning.md)
-- [Deeper: Where to go from here](./ch6-deeper.md)
+- [Deeper: What's next?](./ch6-deeper.md)

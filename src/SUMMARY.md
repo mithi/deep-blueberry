@@ -1,6 +1,7 @@
 # Summary
 
-[DEEP 🐳 BLUEBERRY 📘 BOOK ](./ch0-introduction.md)
+[DEEP 🐳 BLUEBERRY 📘 BOOK](./ch0-introduction.md)
+
 
 - [Deep Learning Foundations](./ch1-deep-learning-foundations.md)
 - [Deep Computer Vision](./ch2-deep-computer-vision.md)

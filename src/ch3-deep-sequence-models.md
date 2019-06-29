@@ -1,13 +1,5 @@
-# Deep Sequence Models
-- Learn how RNNs (LSTMs, GRUs) work and how they can be used for processing sequences
-
-##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
-- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
-- [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
+# [🐳][x2] Deep Sequence Models [☕️][x0][🧧][x1]
+- Learn how RNNs (LSTMs, GRUs) work and why they are used to process sequences
 
 ## Videos + Readings
 
@@ -20,6 +12,19 @@
     - [RNN Article][r3] | [LSTM + GRU Article][r4]
 4. `27 min` `2017-Jun` [Brandon Rohrer: RNN and LSTM][v2]
 5. `2019-Jan` [Ava Soleimany: Deep Sequence Modeling][r5]
+
+## 🐳 🐳 🐳
+- [☕️ Buy me a cup of coffee][x0]
+- [💰 Donate via PayPal][x1]
+- [💙 Send BTC][x2]
+
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
+
+[x0]: https://ko-fi.com/minimithi "Buy me a cup of coffee!"
+[x1]: https://paypal.me/minimithi "Donate with PayPal"
+[x2]: #-- "33Mudy961bUk9zz35p68g9fE3uuHLRduRp"
 
 [r1]: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 [r2]: https://colah.github.io/posts/2015-08-Understanding-LSTMs/

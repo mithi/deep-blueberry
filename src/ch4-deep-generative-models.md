@@ -1,14 +1,6 @@
-# Deep Generative Models
+# [🐳][x2] Deep Generative Models [☕️][x0][🧧][x1]
 - Learn how Generative Adversarial Networks and Variational Autoencoders can produce realistic,
 never-before-seen data
-
-##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
-- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
-- [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
 
 ## Videos + Readings
 1. `2019-Jan` [Alexander Amini: Generative Models Slides][r9]
@@ -30,6 +22,19 @@ never-before-seen data
 2. [MIT Bootcamp: Intro to Deep Learning Debiasing Faces][c1]
 3. `17 min` `2018-Jan` [Dominic Mon: Make a Face Adversarial Network in 15 minutes][v2]
 4. [Erik Linder-noren: PyTorch-GAN][c2]
+
+## 🐳 🐳 🐳
+- [☕️ Buy me a cup of coffee][x0]
+- [💰 Donate via PayPal][x1]
+- [💙 Send BTC][x2]
+
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
+
+[x0]: https://ko-fi.com/minimithi "Buy me a cup of coffee!"
+[x1]: https://paypal.me/minimithi "Donate with PayPal"
+[x2]: #-- "33Mudy961bUk9zz35p68g9fE3uuHLRduRp"
 
 [v0]: http://youtu.be/uCaPP4blYAg
 [v1]: https://youtu.be/Sw9r8CL98n0

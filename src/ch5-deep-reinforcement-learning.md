@@ -1,16 +1,8 @@
-# Deep Reinforcement Learning
+# [🐳][x2] Deep Reinforcement Learning [☕️][x0][🧧][x1]
 - Understand the core ideas and terminologies used in the field
 - Understand a few reinforcement learning algorithms
 - Apply these algorithms to videogame-like environments such as
   OpenAIGym and MuJoCo
-
-##### IF YOU'VE BENEFITED FROM THIS, CONSIDER
-- [☕️ Buying me a cup of coffee](https://ko-fi.com/minimithi)
-- [💰 Donating via Paypal](https://paypal.me/minimithi)
-- 💙 Sending BTC
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
 
 ## Readings + Coding Exercises
 1. `2017-Nov` Josh Greaves: Understanding Reinforcement Learning
@@ -24,6 +16,19 @@
 ## Advanced Coding Exercises
 1. Dulat Yerzat: RL Adventure on [DQN][c2] and [Policy Gradients][c3]
 2. `2018-Nov` [Josh Achiam: OpenAI Spinning Up Course (Core Deep RL Algorithms)][c1]
+
+## 🐳 🐳 🐳
+- [☕️ Buy me a cup of coffee][x0]
+- [💰 Donate via PayPal][x1]
+- [💙 Send BTC][x2]
+
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
+
+[x0]: https://ko-fi.com/minimithi "Buy me a cup of coffee!"
+[x1]: https://paypal.me/minimithi "Donate with PayPal"
+[x2]: #-- "33Mudy961bUk9zz35p68g9fE3uuHLRduRp"
 
 [r1]: https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/
 [r2]: https://joshgreaves.com/reinforcement-learning/understanding-rl-the-bellman-equations/

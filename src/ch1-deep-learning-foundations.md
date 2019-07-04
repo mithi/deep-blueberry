@@ -13,6 +13,7 @@
 2. `24 min` `2017-Mar` [Brandon Rohrer: How Deep Neural Networks Work][v2]
 3. `45 min` `2019-Jan` [Alexander Amini: Introduction to Deep Learning][v3]
 4. `2015-Jun` [Michael Nielsen: A visual proof that NNs can compute any function][r1]
+5. `2017-May` [Jonathan Uesato: What is an ablation study? (Quora)][r2]
 
 ## Coding Exercises
 1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
@@ -32,8 +33,9 @@
 [x1]: https://paypal.me/minimithi "Donate with PayPal"
 [x2]: #-- "33Mudy961bUk9zz35p68g9fE3uuHLRduRp"
 
-
 [r1]: http://neuralnetworksanddeeplearning.com/chap4.html
+[r2]: https://www.quora.com/In-the-context-of-deep-learning-what-is-an-ablation-study
+
 [v1]: https://3blue1brown.com/neural-networks
 [v2]: https://brohrer.github.io/how_neural_networks_work.html
 [v3]: https://www.youtube.com/watch?v=5v1JnYv_yWs

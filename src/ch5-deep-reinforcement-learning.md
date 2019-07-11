@@ -15,9 +15,9 @@
     - `2017-Feb` [Let's Make A3C Theory][r4]
 3. `2018-Mar` [Thomas Simonini: Deep Reinforcement Learning (Free Course)][r5]
 
-## Advanced Coding Exercises
+## Advanced Material
 1. Dulat Yerzat: RL Adventure on [DQN][c2] and [Policy Gradients][c3]
-2. `2018-Nov` [Josh Achiam: OpenAI Spinning Up Course (Core Deep RL Algorithms)][c1]
+2. `2018-Nov` [Josh Achiam: OpenAI Spinning Up Course][c1]
 
 ## 🐳 🐳 🐳
 - [☕️ Buy me a cup of coffee][x0]
@@ -38,7 +38,7 @@
 [r4]: https://jaromiru.com/2017/02/16/lets-make-an-a3c-theory/
 [r5]: https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 
-[c1]: https://spinningup.openai.com/en/latest/user/algorithms.html
+[c1]: https://spinningup.openai.com/
 [c2]: https://github.com/higgsfield/RL-Adventure
 [c3]: https://github.com/higgsfield/RL-Adventure-2
 

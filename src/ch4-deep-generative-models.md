@@ -16,7 +16,7 @@ never-before-seen data
 ##### GENERATIVE ADVERSARIAL NETWORKS
 1. `2016-Jun` [Kevin Frans: Generative Adversarial Networks Explained][r8]
 2. `22 min` `2017-Oct` [Rob Miles: Generative Adversarial Networks (GANs)][v1]
-3. `2019-Jan` [Minsuk Kahng etal: Play with Generative Adversarial Network in Your Browser][r6]
+3. `2019-Jan` [Minsuk Kahng _et al_: Play with Generative Adversarial Network in Your Browser][r6]
 4. `2019-Jan` [Madhu Sanjeevi: Generative Adversarial Networks with Math][r7]
 
 ## Coding Exercises

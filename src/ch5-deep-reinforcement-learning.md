@@ -13,11 +13,11 @@
 2.  Jaromír Janisch: Let's Make DQN and A3C series
     - `2016-Sep` [Let's Make DQN Theory][r3]
     - `2017-Feb` [Let's Make A3C Theory][r4]
-3. `2018-Mar` [Thomas Simonini: Deep Reinforcement Learning (Free Course)][r5]
+3. `2018-Mar` [Thomas Simonini: Deep Reinforcement Learning (free course)][r5]
 
 ## Advanced Material
 1. Dulat Yerzat: RL Adventure on [DQN][c2] and [Policy Gradients][c3]
-2. `2018-Nov` [Josh Achiam: OpenAI Spinning Up Course][c1]
+2. `2018-Nov` [Josh Achiam: OpenAI Spinning Up (free course)][c1]
 
 ## 🐳 🐳 🐳
 - [☕️ Buy me a cup of coffee][x0]

@@ -6,12 +6,16 @@ with some of the hottest topics in deep learning today. You might want to contin
 your deep learning journey with the links listed below. 🚀 are must-clicks!
 
 1. `2018-Mar` [Tess Ferrandez: Notes from Andrew Ng's courses][r0]
-2. 🚀 [Distill.pub - A modern medium presenting research][r3]
-3. `2018-Oct` [Mithi Sevilla: Malicious Attacks to Neural Networks (Adversarial Examples)][r1]
-4. 🚀 `37 min` `2019-Jan` [Ava Soleimany: Limitations and New Frontiers][v3]
-5. [💰💰 Brandon Rohrer: Neural Network Visualization][v1]
-6. 🚀 [Fast.AI: Practical and Cutting-Edge Deep-learning for Coders (free course)][v2]
-7. `2018-Nov` [Lilian Weng: Meta-Learning: Learning to Learn Fast][r4]
+2. `2016-Jan` [Sebastian Ruder: Gradient Descent Optimization Algorithms][r6]
+3. `2016-Sep` [Fjodor van Veen: The Neural Network Zoo][r5]
+4. 🚀 [Distill.pub: A modern medium presenting research][r3]
+5. `18 min` `2015-Feb` [Ian Goodfellow: Adversarial Examples][r1]
+6. 🚀 `37 min` `2019-Jan` [Ava Soleimany: Limitations and New Frontiers][v3]
+7. [💰💰 Brandon Rohrer: Neural Network Visualization][v1]
+8. 🚀 [Fast.AI: Practical and Cutting-Edge Deep-learning for Coders (free course)][v2]
+9. `2018-Nov` [Lilian Weng: Meta-Learning: Learning to Learn Fast][r4]
+10. `52 min` `2017-Dec` [Pieter Abbeel: Deep Learning for Robotics][r7]
+11. `43 min` `2018-Jan` [David Silver: Mastering games without Human Knowledge][r8]
 
 ## 🐳 🐳 🐳
 - [☕️ Buy me a cup of coffee][x0]
@@ -27,10 +31,14 @@ your deep learning journey with the links listed below. 🚀 are must-clicks!
 [x2]: #-- "33Mudy961bUk9zz35p68g9fE3uuHLRduRp"
 
 [r0]: https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
-[r1]: https://hackernoon.com/malicious-attacks-to-neural-networks-8b966793dfe1
+[r1]: https://www.youtube.com/watch?v=Pq4A2mPCB0Y
 [r2]: https://spinningup.openai.com/en/latest/
 [r3]: https://distill.pub/
 [r4]: https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html
+[r5]: http://www.asimovinstitute.org/neural-network-zoo/
+[r6]: http://ruder.io/optimizing-gradient-descent/
+[r7]: https://www.youtube.com/watch?v=TyOooJC_bLY
+[r8]: https://www.youtube.com/watch?v=Wujy7OzvdJk
 
 [v1]: https://end-to-end-machine-learning.teachable.com/p/neural-network-visualization
 [v2]: https://www.fast.ai/

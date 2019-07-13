@@ -20,10 +20,11 @@ additional six or more hours to experiment with available code.
 ## Prerequisites
 1. Familiarity with basic multivariate calculus, linear algebra, probability, statistics
     - `2018-Mar` [Niklas Donges: Basic Linear Algebra for Deep Learning][a4]
-    - `2018-Jul` [Terence Parr et al: The Matrix Calculus You Need For Deep Learning][a5]
-    - `2018-Dec` [laxman vija: Probability + Stats in the context of deep learning][a6]
+    - `2018-Jul` [Terence Parr _et al_: The Matrix Calculus You Need for Deep Learning][a5]
+    - `2018-Dec` [Laxman Vija: Probability and Stats in the context of Deep Learning][a6]
 2. Coding experience with Python or any other programming language
     - [SoloLearn: Python][a1] | [Jay Alammar: NumPy Intro][a2] | [Stanford: NumPy Intro][a3]
+3. (Recommended) [S Keshav: How to Read a Paper][a7]
 
 ## 🐳 🐳 🐳
 - [☕️ Buy me a cup of coffee][x0]
@@ -44,4 +45,4 @@ additional six or more hours to experiment with available code.
 [a4]: https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23
 [a5]: https://explained.ai/matrix-calculus/index.html
 [a6]: https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f
-
+[a7]: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf

@@ -7,7 +7,7 @@ your deep learning journey with the links listed below. 🚀 are must-clicks!
 
 1. `2018-Mar` [Tess Ferrandez: Notes from Andrew Ng's courses][r0]
 2. `2016-Jan` [Sebastian Ruder: Gradient Descent Optimization Algorithms][r6]
-3. `2016-Sep` [Fjodor van Veen: The Neural Network Zoo][r5]
+3. `2016-Sep` [Fjodor Van Veen: The Neural Network Zoo][r5]
 4. 🚀 [Distill.pub: A modern medium presenting research][r3]
 5. `18 min` `2015-Feb` [Ian Goodfellow: Adversarial Examples][r1]
 6. 🚀 `37 min` `2019-Jan` [Ava Soleimany: Limitations and New Frontiers][v3]
@@ -16,6 +16,7 @@ your deep learning journey with the links listed below. 🚀 are must-clicks!
 9. `2018-Nov` [Lilian Weng: Meta-Learning: Learning to Learn Fast][r4]
 10. `52 min` `2017-Dec` [Pieter Abbeel: Deep Learning for Robotics][r7]
 11. `43 min` `2018-Jan` [David Silver: Mastering games without Human Knowledge][r8]
+12. [Papers with Code][r9] | [Zaur Fataliyev: PWC][r10]
 
 ## 🐳 🐳 🐳
 - [☕️ Buy me a cup of coffee][x0]
@@ -39,6 +40,8 @@ your deep learning journey with the links listed below. 🚀 are must-clicks!
 [r6]: http://ruder.io/optimizing-gradient-descent/
 [r7]: https://www.youtube.com/watch?v=TyOooJC_bLY
 [r8]: https://www.youtube.com/watch?v=Wujy7OzvdJk
+[r9]: https://paperswithcode.com/about
+[r10]: https://github.com/zziz/pwc
 
 [v1]: https://end-to-end-machine-learning.teachable.com/p/neural-network-visualization
 [v2]: https://www.fast.ai/

@@ -9,9 +9,9 @@
 ## Videos + Readings
 1. `18 min` `2015-Mar` [Fei Fei Li: How we teach computers to understand pictures][v3]
 2. `16 min` `2017-May` [Caryk Huang: Teaching my computer to give me friends][v1]
-3. `27 min` `2016-Aug` [Brandon Rohrer: How Convolutional Neural Networks work][v2]
-4. `2018-Jun` [Irhum Shafkat: Intuitively Understanding Convolutions for Deep Learning][r1]
-5. `33 min` `2017-Mar` [Luis Serrano: A friendly introduction to CNNs and Image Recognition][v6]
+3. `27 min` `2016-Aug` [Brandon Rohrer: How CNNs work][v2]
+4. `2018-Jun` [Irhum Shafkat: Intuitively understanding convolutions for deep learning][r1]
+5. `33 min` `2017-Mar` [Luis Serrano: A friendly introduction to CNNs and image recognition][v6]
 6. [Andrej Karpathy: Visualizing what CovNets learn][r2]
 7. [Adam Harley: Interactive Visualization of CNN][r3]
 

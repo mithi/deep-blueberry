@@ -16,9 +16,10 @@
 5. `2017-May` [Jonathan Uesato: What is an ablation study? (Quora)][r2]
 
 ## Coding Exercises
-1. [Andrej Karpathy: Build a Neural Network from Scratch][c1]
+1. [Andrej Karpathy][c1] | [Denny Britz][c4] - Build Neural Networks from Scratch
 2. [Soumith Chintala: PyTorch 60 Minute Blitz][c2]
 3. [Tensorflow Keras][c4] | [PyTorch Tutorials][c11] | [Keras Tutorials][c12]
+
 
 ## 🐳 🐳 🐳
 - [☕️ Buy me a cup of coffee][x0]
@@ -42,6 +43,7 @@
 
 [c1]: http://cs231n.github.io/neural-networks-case-study/
 [c2]: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+[c3]: http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 [c4]: https://www.tensorflow.org/tutorials/keras
 [c11]: https://github.com/yunjey/pytorch-tutorial/
 [c12]: https://github.com/fchollet/deep-learning-with-python-notebooks
